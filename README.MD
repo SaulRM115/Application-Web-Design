@@ -22,3 +22,18 @@ Markdown is a lightweight markup language for creating formatted text using a pl
 <br>
 
 >Practicas para un README.MD
+
+####Seccion de ejemplo de un codigo en HTML Para Tarea 1
+
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <mate charest="utf-8" />
+        <title>Hello world!</title>
+    </head>
+    <body>
+        <h1>Hello world!</h1>
+    </body>
+</html>
+```
